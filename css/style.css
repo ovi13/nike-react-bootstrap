@@ -1,0 +1,49 @@
+/* .header-bg{
+    background-color: red;
+} */
+.nike-react{
+    color: #FA804C;
+    font-weight: bold;
+}
+.infinity{
+    color: rgb(49, 49, 49);
+    font-weight: bold;
+}
+.btn-class{
+    width: 140px;
+    height: 50px;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+}
+.buy-now{
+    color: white;
+}
+.card .card-img{
+    background-color: rgb(211, 208, 208);
+    border-radius: 35px;
+    
+}
+.shoes-dec{
+    padding: 20px;
+}
+.price{
+    color: orange;
+}
+.k img{
+   margin-left: auto;
+}
+.e .row{
+    --bs-gutter-x: 5.5rem;
+}
+@media only screen and (max-width:688px) {
+        .edit img{
+                width: 200px;
+        }
+        /* .edit-nav img{
+                width: 50px;
+        } */
+        .flex1{
+            display: flex;
+            flex-direction: column;
+        }
+}
